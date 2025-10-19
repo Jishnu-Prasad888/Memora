@@ -39,8 +39,17 @@ go run main.go -mode server -host localhost -port 6379
 # Or use the binary
 ./memora -mode server
 ```
+### Using the GUI Client
 
-### Using the Client
+![img.png](img.png)
+
+```cmd
+pip install customtkinter
+# go into the GUI client folder
+python gui.py
+```
+
+### Using the CLI Client
 
 ```bash
 # Interactive CLI client
