@@ -1,0 +1,5 @@
+2025/10/20 01:06:55 commands.go:515: ["redis" "database" "in-memory" "go"]
+2025/10/20 01:11:25 persistence.go:52: Snapshot saved to memora-dump.rdb
+2025/10/20 01:16:25 persistence.go:52: Snapshot saved to memora-dump.rdb
+2025/10/20 01:17:21 server.go:169: Shutting down server...
+2025/10/20 01:17:21 main.go:47: <nil>
