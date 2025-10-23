@@ -4,6 +4,9 @@ A Redis-like in-memory key-value database built from scratch in Go, designed to 
 
 ![Go Version](https://img.shields.io/badge/Go-1.21+-blue)
 
+## Demo on Youtube
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=u44VhUXWn7o)
+
 ## 🌟 Features
 
 ### Core Features
