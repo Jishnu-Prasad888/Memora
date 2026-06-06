@@ -1,0 +1,22 @@
+========== RESULTS ==========
+Operations:      1000000
+Errors:          0
+Duration:        4.405656791s
+Ops/sec:         226980.91
+
+Latency (µs)
+Average:         434.66
+Min:             9.00
+P50:             39.00
+P90:             1066.00
+P95:             1107.00
+P99:             2048.00
+P99.9:           4344.00
+Max:             14117.00
+
+Runtime
+Goroutines:      1
+Heap Alloc:      13.73 MB
+Heap Sys:        50.38 MB
+GC Runs:         59
+=============================
