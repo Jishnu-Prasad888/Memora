@@ -28,7 +28,7 @@ A Redis-like in-memory key-value database built from scratch in Go, designed to 
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/memora
+git clone https://github.com/Jishnu-Prasad888/Memora
 cd memora
 go build
 ```
